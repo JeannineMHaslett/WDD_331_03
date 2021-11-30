@@ -13,12 +13,12 @@
   "author": "Shane T",
   "license": "GPL-2.0",
   "devDependencies": {
-    "@babel/preset-env": "^7.14.7",
-    "@parcel/transformer-sass": "^2.0.0-rc.0",
-    "parcel": "next",
+    "@parcel/transformer-sass": "^2.0.1",
+    "parcel": "^2.0.1",
     "rimraf": "^3.0.2"
   },
   "dependencies": {
+    "@babel/preset-env": "^7.16.4",
     "bootstrap": "^4.6.0",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1"
