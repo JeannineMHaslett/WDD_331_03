@@ -3,6 +3,7 @@ import popper from "popper.js";
 import bootstrap from "bootstrap";
 
 // check to see if javascript is working
+/*
 function component() {
   const element = document.createElement("p");
 
@@ -21,3 +22,4 @@ $(document).ready(() => {
     $('[data-toggle="popover"]').popover();
   });
 });
+*/
