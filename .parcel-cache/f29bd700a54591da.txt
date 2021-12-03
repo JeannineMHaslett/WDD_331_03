@@ -1,4 +1,4 @@
-18804
+18808
 66C:\Users\j9has\Desktop\parcelCSS\node_modules\@parcel\packager-css132828704851828327 1
 70C:\Users\j9has\Desktop\parcelCSS\node_modules\is-nan\implementation.js121436361000000000 0
 95C:\Users\j9has\Desktop\parcelCSS\node_modules\postcss-selector-parser\dist\util\ensureObject.js121436361000000000 0
@@ -79,8 +79,8 @@
 102C:\Users\j9has\Desktop\parcelCSS\node_modules\@babel\runtime\helpers\createForOfIteratorHelperLoose.js121012626000000000 0
 69C:\Users\j9has\Desktop\parcelCSS\node_modules\nanoid\async\index.d.ts121436361000000000 0
 51C:\Users\j9has\Desktop\parcelCSS\node_modules\jsesc132828704874271872 1
-45C:\Users\j9has\Desktop\parcelCSS\node_modules132828704899902310 1
-38C:\Users\j9has\Desktop\parcelCSS\build132828775873232069 1
+45C:\Users\j9has\Desktop\parcelCSS\node_modules132828778498453887 1
+38C:\Users\j9has\Desktop\parcelCSS\build132828944150723639 1
 110C:\Users\j9has\Desktop\parcelCSS\node_modules\postcss-modules-values\node_modules\source-map\lib\quick-sort.js131369414910000000 0
 70C:\Users\j9has\Desktop\parcelCSS\node_modules\lodash\fp\reduceRight.js121436361000000000 0
 61C:\Users\j9has\Desktop\parcelCSS\node_modules\stream-http\lib132828704650551527 1
@@ -221,7 +221,7 @@
 65C:\Users\j9has\Desktop\parcelCSS\node_modules\pn\child_process.js131594838820000000 0
 89C:\Users\j9has\Desktop\parcelCSS\node_modules\jsdom\lib\jsdom\living\window\navigation.js121436361000000000 0
 64C:\Users\j9has\Desktop\parcelCSS\node_modules\yaml\dist\types.js121436361000000000 0
-47C:\Users\j9has\Desktop\parcelCSS\src\index.html132828775576380876 0
+47C:\Users\j9has\Desktop\parcelCSS\src\index.html132828944569365153 0
 71C:\Users\j9has\Desktop\parcelCSS\node_modules\@parcel\node-libs-browser132828704853318679 1
 56C:\Users\j9has\Desktop\parcelCSS\node_modules\fill-range132828704858729879 1
 69C:\Users\j9has\Desktop\parcelCSS\node_modules\core-js\stable\weak-map132828704794070182 1
@@ -264,7 +264,7 @@
 67C:\Users\j9has\Desktop\parcelCSS\node_modules\data-urls\LICENSE.txt121436361000000000 0
 55C:\Users\j9has\Desktop\parcelCSS\node_modules\term-size132828704863340921 1
 61C:\Users\j9has\Desktop\parcelCSS\node_modules\isarray\test.js130942154450000000 0
-53C:\Users\j9has\Desktop\parcelCSS\src\scss\styles.scss132828708566384692 0
+53C:\Users\j9has\Desktop\parcelCSS\src\scss\styles.scss132828846966735494 0
 70C:\Users\j9has\Desktop\parcelCSS\node_modules\string.prototype.trimend132828704863690995 1
 63C:\Users\j9has\Desktop\parcelCSS\node_modules\is-symbol\LICENSE121436361000000000 0
 82C:\Users\j9has\Desktop\parcelCSS\node_modules\@parcel\transformer-babel\lib\jsx.js121436361000000000 0
@@ -8190,7 +8190,7 @@
 75C:\Users\j9has\Desktop\parcelCSS\node_modules\core-js\stable\global-this.js121436361000000000 0
 63C:\Users\j9has\Desktop\parcelCSS\node_modules\lodash\fp\pick.js121436361000000000 0
 65C:\Users\j9has\Desktop\parcelCSS\node_modules\colord\CHANGELOG.md121436361000000000 0
-59C:\Users\j9has\Desktop\parcelCSS\build\prodigy.86cf8527.png132828775873032081 0
+59C:\Users\j9has\Desktop\parcelCSS\build\prodigy.86cf8527.png132828944147882998 0
 63C:\Users\j9has\Desktop\parcelCSS\node_modules\pn\async_hooks.js131594838820000000 0
 58C:\Users\j9has\Desktop\parcelCSS\node_modules\pn\buffer.js131594838820000000 0
 121C:\Users\j9has\Desktop\parcelCSS\node_modules\@babel\preset-modules\src\plugins\transform-safari-block-shadowing\index.js121436361000000000 0
@@ -13054,7 +13054,7 @@
 84C:\Users\j9has\Desktop\parcelCSS\node_modules\es-abstract\2018\CopyDataProperties.js121436361000000000 0
 56C:\Users\j9has\Desktop\parcelCSS\node_modules\base-x\src132828704690472532 1
 84C:\Users\j9has\Desktop\parcelCSS\node_modules\es-abstract\2018\CreateDataProperty.js121436361000000000 0
-56C:\Users\j9has\Desktop\parcelCSS\build\index.bdfe4a77.js132828775873042055 0
+56C:\Users\j9has\Desktop\parcelCSS\build\index.bdfe4a77.js132828944148143059 0
 91C:\Users\j9has\Desktop\parcelCSS\node_modules\es-abstract\2018\CreateDataPropertyOrThrow.js121436361000000000 0
 88C:\Users\j9has\Desktop\parcelCSS\node_modules\es-abstract\2018\CreateIterResultObject.js121436361000000000 0
 89C:\Users\j9has\Desktop\parcelCSS\node_modules\es-abstract\2018\CreateListFromArrayLike.js121436361000000000 0
@@ -13108,7 +13108,7 @@
 88C:\Users\j9has\Desktop\parcelCSS\node_modules\es-abstract\2018\OrdinaryGetPrototypeOf.js121436361000000000 0
 85C:\Users\j9has\Desktop\parcelCSS\node_modules\es-abstract\2018\OrdinaryHasInstance.js121436361000000000 0
 85C:\Users\j9has\Desktop\parcelCSS\node_modules\es-abstract\2018\OrdinaryHasProperty.js121436361000000000 0
-71C:\Users\j9has\Desktop\parcelCSS\build\fontawesome-webfont.e5eab64c.eot132828775873032081 0
+71C:\Users\j9has\Desktop\parcelCSS\build\fontawesome-webfont.e5eab64c.eot132828944147342891 0
 85C:\Users\j9has\Desktop\parcelCSS\node_modules\es-abstract\2018\OrdinaryToPrimitive.js121436361000000000 0
 88C:\Users\j9has\Desktop\parcelCSS\node_modules\es-abstract\2018\RequireObjectCoercible.js121436361000000000 0
 75C:\Users\j9has\Desktop\parcelCSS\node_modules\es-abstract\2018\SameValue.js121436361000000000 0
@@ -13421,7 +13421,7 @@
 77C:\Users\j9has\Desktop\parcelCSS\node_modules\core-js\stable\instance\some.js121436361000000000 0
 84C:\Users\j9has\Desktop\parcelCSS\node_modules\core-js\features\string\replace-all.js121436361000000000 0
 75C:\Users\j9has\Desktop\parcelCSS\node_modules\es-abstract\2015\IsInteger.js121436361000000000 0
-55C:\Users\j9has\Desktop\parcelCSS\build\KFS.6ac85e0d.png132828775873032081 0
+55C:\Users\j9has\Desktop\parcelCSS\build\KFS.6ac85e0d.png132828944147142845 0
 75C:\Users\j9has\Desktop\parcelCSS\node_modules\es-abstract\2015\IsPromise.js121436361000000000 0
 79C:\Users\j9has\Desktop\parcelCSS\node_modules\es-abstract\2015\IsPropertyKey.js121436361000000000 0
 79C:\Users\j9has\Desktop\parcelCSS\node_modules\es-abstract\2015\IteratorClose.js121436361000000000 0
@@ -13951,6 +13951,7 @@
 71C:\Users\j9has\Desktop\parcelCSS\node_modules\css-what\lib\stringify.js121436361000000000 0
 67C:\Users\j9has\Desktop\parcelCSS\node_modules\css-tree\CHANGELOG.md121436361000000000 0
 72C:\Users\j9has\Desktop\parcelCSS\node_modules\array-equal\component.json130432365670000000 0
+60C:\Users\j9has\Desktop\parcelCSS\build\kickflip.2bf2cbb3.jpg132828944150283539 0
 59C:\Users\j9has\Desktop\parcelCSS\node_modules\css-tree\data132828704746928589 1
 58C:\Users\j9has\Desktop\parcelCSS\node_modules\css-tree\lib132828704739286861 1
 62C:\Users\j9has\Desktop\parcelCSS\node_modules\css-tree\LICENSE121436361000000000 0
@@ -15200,7 +15201,7 @@
 77C:\Users\j9has\Desktop\parcelCSS\node_modules\core-js\proposals\observable.js121436361000000000 0
 86C:\Users\j9has\Desktop\parcelCSS\node_modules\core-js\proposals\promise-all-settled.js121436361000000000 0
 80C:\Users\j9has\Desktop\parcelCSS\node_modules\core-js\modules\es.array.filter.js121436361000000000 0
-72C:\Users\j9has\Desktop\parcelCSS\build\fontawesome-webfont.d1cf834f.woff132828775873032081 0
+72C:\Users\j9has\Desktop\parcelCSS\build\fontawesome-webfont.d1cf834f.woff132828944147312858 0
 78C:\Users\j9has\Desktop\parcelCSS\node_modules\core-js\proposals\promise-any.js121436361000000000 0
 88C:\Users\j9has\Desktop\parcelCSS\node_modules\babel-plugin-polyfill-corejs2\package.json132828704860200213 0
 78C:\Users\j9has\Desktop\parcelCSS\node_modules\core-js\proposals\promise-try.js121436361000000000 0
@@ -16722,7 +16723,7 @@
 65C:\Users\j9has\Desktop\parcelCSS\node_modules\braces\package.json132828704858159743 0
 67C:\Users\j9has\Desktop\parcelCSS\node_modules\braces\lib\compile.js121436361000000000 0
 69C:\Users\j9has\Desktop\parcelCSS\node_modules\braces\lib\constants.js121436361000000000 0
-49C:\Users\j9has\Desktop\parcelCSS\build\index.html132828775873032081 0
+49C:\Users\j9has\Desktop\parcelCSS\build\index.html132828944148253095 0
 65C:\Users\j9has\Desktop\parcelCSS\node_modules\braces\lib\parse.js121436361000000000 0
 65C:\Users\j9has\Desktop\parcelCSS\node_modules\braces\lib\utils.js121436361000000000 0
 74C:\Users\j9has\Desktop\parcelCSS\node_modules\brace-expansion\package.json132828704878982949 0
@@ -17023,7 +17024,7 @@
 74C:\Users\j9has\Desktop\parcelCSS\node_modules\abortcontroller-polyfill\src132828704741049782 1
 92C:\Users\j9has\Desktop\parcelCSS\node_modules\abortcontroller-polyfill\src\abortableFetch.js121436361000000000 0
 102C:\Users\j9has\Desktop\parcelCSS\node_modules\abortcontroller-polyfill\src\abortcontroller-polyfill.js121436361000000000 0
-71C:\Users\j9has\Desktop\parcelCSS\build\fontawesome-webfont.5de58c59.ttf132828775873032081 0
+71C:\Users\j9has\Desktop\parcelCSS\build\fontawesome-webfont.5de58c59.ttf132828944146992823 0
 86C:\Users\j9has\Desktop\parcelCSS\node_modules\abortcontroller-polyfill\src\polyfill.js121436361000000000 0
 108C:\Users\j9has\Desktop\parcelCSS\node_modules\abortcontroller-polyfill\dist\abortcontroller-polyfill-only.js121436361000000000 0
 99C:\Users\j9has\Desktop\parcelCSS\node_modules\abortcontroller-polyfill\dist\polyfill-patch-fetch.js121436361000000000 0
@@ -17502,7 +17503,7 @@
 116C:\Users\j9has\Desktop\parcelCSS\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\other.js121436361000000000 0
 117C:\Users\j9has\Desktop\parcelCSS\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\source.js121436361000000000 0
 114C:\Users\j9has\Desktop\parcelCSS\node_modules\@parcel\node-resolver-core\test\fixture\packages\source\package.json121436361000000000 0
-71C:\Users\j9has\Desktop\parcelCSS\build\fontawesome-webfont.23e9ae95.svg132828775873042055 0
+71C:\Users\j9has\Desktop\parcelCSS\build\fontawesome-webfont.23e9ae95.svg132828944150693629 0
 113C:\Users\j9has\Desktop\parcelCSS\node_modules\@babel\types\lib\builders\flow\createTypeAnnotationBasedOnTypeof.js121012626000000000 0
 105C:\Users\j9has\Desktop\parcelCSS\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope132828704650991667 1
 112C:\Users\j9has\Desktop\parcelCSS\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias132828704688570802 1
@@ -18361,7 +18362,7 @@
 99C:\Users\j9has\Desktop\parcelCSS\node_modules\@babel\plugin-syntax-optional-catch-binding\README.md121436361000000000 0
 89C:\Users\j9has\Desktop\parcelCSS\node_modules\@babel\plugin-syntax-object-rest-spread\lib132828704643059850 1
 93C:\Users\j9has\Desktop\parcelCSS\node_modules\@babel\plugin-syntax-object-rest-spread\LICENSE121436361000000000 0
-60C:\Users\j9has\Desktop\parcelCSS\build\index.bdfe4a77.js.map132828775873212077 0
+60C:\Users\j9has\Desktop\parcelCSS\build\index.bdfe4a77.js.map132828944148253095 0
 95C:\Users\j9has\Desktop\parcelCSS\node_modules\@babel\plugin-syntax-object-rest-spread\README.md121436361000000000 0
 98C:\Users\j9has\Desktop\parcelCSS\node_modules\@babel\plugin-syntax-object-rest-spread\lib\index.js121436361000000000 0
 92C:\Users\j9has\Desktop\parcelCSS\node_modules\@babel\plugin-syntax-numeric-separator\LICENSE121436361000000000 0
@@ -18795,11 +18796,14 @@
 60C:\Users\j9has\Desktop\parcelCSS\dist\KFS_modal.d18d6f88.png132828771653611102 0
 60C:\Users\j9has\Desktop\parcelCSS\dist\longboard.9cb8fe3d.jpg132828771653611102 0
 63C:\Users\j9has\Desktop\parcelCSS\dist\tipsolahraga.40221e9e.jpg132828771663123240 0
-57C:\Users\j9has\Desktop\parcelCSS\build\board.4f92a749.jpg132828775873032081 0
-73C:\Users\j9has\Desktop\parcelCSS\build\fontawesome-webfont.2ee47655.woff2132828775873032081 0
-71C:\Users\j9has\Desktop\parcelCSS\build\fontawesome-webfont.5c6d7650.eot132828775873032081 0
-57C:\Users\j9has\Desktop\parcelCSS\build\index.c7ef7af2.css132828775873032081 0
-61C:\Users\j9has\Desktop\parcelCSS\build\index.c7ef7af2.css.map132828775873212077 0
-61C:\Users\j9has\Desktop\parcelCSS\build\KFS_modal.720e96f7.png132828775873032081 0
-61C:\Users\j9has\Desktop\parcelCSS\build\longboard.d14b8a02.jpg132828775873032081 0
-64C:\Users\j9has\Desktop\parcelCSS\build\tipsolahraga.82ad7352.jpg132828775873032081 0
+59C:\Users\j9has\Desktop\parcelCSS\build\360flip.eefa7f1b.jpg132828944147882998 0
+57C:\Users\j9has\Desktop\parcelCSS\build\board.4f92a749.jpg132828944147552927 0
+59C:\Users\j9has\Desktop\parcelCSS\build\bscrook.5831c671.jpg132828944147282862 0
+73C:\Users\j9has\Desktop\parcelCSS\build\fontawesome-webfont.2ee47655.woff2132828944148143059 0
+71C:\Users\j9has\Desktop\parcelCSS\build\fontawesome-webfont.5c6d7650.eot132828944146992823 0
+57C:\Users\j9has\Desktop\parcelCSS\build\index.c7ef7af2.css132828944150283539 0
+61C:\Users\j9has\Desktop\parcelCSS\build\index.c7ef7af2.css.map132828944150453576 0
+61C:\Users\j9has\Desktop\parcelCSS\build\KFS_LIGHT.7c6bd04b.png132828944147552927 0
+61C:\Users\j9has\Desktop\parcelCSS\build\KFS_modal.720e96f7.png132828944147893007 0
+61C:\Users\j9has\Desktop\parcelCSS\build\longboard.d14b8a02.jpg132828944150353562 0
+64C:\Users\j9has\Desktop\parcelCSS\build\tipsolahraga.82ad7352.jpg132828944150353562 0

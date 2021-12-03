@@ -11606,6 +11606,10 @@ h5.modal-title {
 .modalFormWrapper {
   padding: 2rem;
 }
+.modal p {
+  margin: auto;
+  padding: 5px;
+}
 .imgCenter {
   display: block;
   margin: auto;
@@ -11616,6 +11620,9 @@ h5.modal-title {
   margin-top: 15px;
   margin-bottom: 20px;
   width: 54%;
+}
+.footer-bg-inverse {
+  background: black;
 }
 .footerImg {
   padding: 15px;

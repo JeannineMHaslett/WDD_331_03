@@ -5,8 +5,15 @@
   <meta charset="UTF-8" />
   <title>Lesson 12 Assignment: Prototyping</title>
   <meta name="author" content="Jeannine Haslett" />
-  <meta name="description" content="" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!--Bootstrap CSS-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"
+    integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+
+  <!--Font Awesome CSS-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
   <!-- change the path below to scss/styles.scss to use SASS -->
   <link rel="stylesheet" href="scss/styles.scss" />
 </head>
@@ -91,7 +98,9 @@
             </button>
           </div>
         </div>
+
         <div class="col"></div>
+
       </div>
     </div>
 
@@ -112,7 +121,6 @@
               </p>
             </div>
           </div>
-
           <div class="row">
             <div class="col-sm-12 col-md-9">
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sapien erat, sagittis ut convallis eget,
@@ -121,12 +129,15 @@
                 varius. Aenean sit amet sollicitudin purus, non vestibulum eros. Cras aliquet massa nec sodales
                 dapibus.</p>
             </div>
+
             <div class="col-sm-12 col-md-3">
               <img class="img-fluid" src="images/KFS.png">
             </div>
           </div>
         </div>
+
         <div class="col"></div>
+
       </div>
       <div class="row">
         <div class="col-sm-12">
@@ -148,8 +159,7 @@
               <img class="img-fluid imgCenter" src="images/kickflip.jpg">
               <div class="row">
                 <div class="col-sm-12">
-                  <button type="button" class="btn btn-danger btn-lg btnCenter">Kickflip
-                  </button>
+                  <button type="button" class="btn btn-danger btn-lg btnCenter" data-toggle="modal" data-target=".kf-modal-lg">Kickflip</button>
                 </div>
               </div>
             </div>
@@ -157,8 +167,7 @@
               <img class="img-fluid imgCenter" src="images/360flip.jpg">
               <div class="row">
                 <div class="col-sm-12">
-                  <button type="button" class="btn btn-danger btn-lg btnCenter">360 Flip
-                  </button>
+                  <button type="button" class="btn btn-danger btn-lg btnCenter" data-toggle="modal" data-target=".threesixty-modal-md">360 Flip</button>
                 </div>
               </div>
             </div>
@@ -166,8 +175,7 @@
               <img class="img-fluid imgCenter" src="images/bscrook.jpg">
               <div class="row">
                 <div class="col-sm-12">
-                  <button type="button" class="btn btn-danger btn-lg btnCenter">BS Crook
-                  </button>
+                  <button type="button" class="btn btn-danger btn-lg btnCenter" data-toggle="modal" data-target=".bscrook-modal-sm">BS Crook</button>
                 </div>
               </div>
             </div>
@@ -176,7 +184,29 @@
       </div>
     </div>
 
-    <!-- Modal -->
+    <!--footer-->
+    <footer class="footer-bg-inverse">
+      <div class="contianer-fluid">
+        <div class="row">
+          <div class="col-sm-12 col-lg-3">
+            <img class="img-fluid footerImg" src="images/KFS_LIGHT.png">
+          </div>
+          <div class="col-sm-12 col-lg-9 socialWrapper">
+            <a href="https://facebook.com" target="_blank">
+            <i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+          </a>
+          <a href="https://myaccount.google.com" target="_blank">
+            <i class="fa fa-google-plus-square fa-3x" aria-hidden="true"></i>
+          </a>
+          <a href="https://instagram.com" target="_blank">
+            <i class="fa fa-instagram fa-3x" aria-hidden="true"></i>
+          </a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!--Modals-->
 
     <!--Cool Stuff Modal -->
     <div class="modal fade" id="coolStuffModal" tabindex="-1" aria-labelledby="coolStuffLabel" aria-hidden="true">
@@ -188,7 +218,6 @@
               <span aria-hidden="true">&times;</span>
             </button>
           </div>
-
           <div class="modal-body">
             <div class="container-fluid">
               <div class="row">
@@ -196,7 +225,6 @@
                   <img class="img-fluid" src="images/KFS_modal.png">
                 </div>
               </div>
-
               <div class="row">
                 <div class="col-sm-12">
                   <div class="modalFormWrapper">
@@ -215,7 +243,6 @@
               </div>
             </div>
           </div>
-
           <div class="modal-footer">
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
           </div>
@@ -223,6 +250,42 @@
       </div>
     </div>
   </div>
+
+<!--Kickflip Modal-->
+<div class="modal fade kf-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/ilzy0viqVes" allowfullscreen></iframe>
+      </div>
+      <p>Kickflips are easy. Pop, flick, catch, land. BOOM!</p>
+    </div>
+  </div>
+</div>
+
+<!--360 Flip-->
+<div class="modal fade threesixty-modal-md" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-md">
+    <div class="modal-content">
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/ilzy0viqVes" allowfullscreen></iframe>
+      </div>
+      <p>360 flips are easy. Pop, scissor kick, catch, land. BOOM!</p>
+    </div>
+  </div>
+</div>
+
+<!--BS Crook-->
+<div class="modal fade bscrook-modal-sm" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/ilzy0viqVes" allowfullscreen></iframe>
+      </div>
+      <p>Backside Crooks are sick! Nollie in, nollie out! BOOM!</p>
+    </div>
+  </div>
+</div>
 
   <script src="js/index.js" type="module"></script>
 </body>
